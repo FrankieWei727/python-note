@@ -6,7 +6,7 @@
  Python is a prowerful programming language. 
 
  
-## [Python for Web Development](https://github.com/FrankieWei727/python-note/tree/master/web%20develop/Django/PyShop)
+## [Python for Web Development](https://github.com/FrankieWei727/python-note/tree/master/Web%20Develop)
  
  
 ## [Python for Data Analysis](https://github.com/FrankieWei727/python-note/tree/master/data%20analysis/web%20scrap)
@@ -14,5 +14,5 @@
 ### [Python for Data Analysis](https://github.com/FrankieWei727/python-note/tree/master/Data%20Analysis/Python%20for%20Data%20Analysis)
  
  
-## [Python for Machine Learning](https://github.com/FrankieWei727/python-note/tree/master/machine%20learning/tree%20)
+## [Python for Machine Learning](https://github.com/FrankieWei727/python-note/tree/master/Machine%20Learning)
  
