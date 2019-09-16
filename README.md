@@ -1,20 +1,18 @@
 # Python Notes
  Python with data science, web develop and data analysis.
  
-## Section1
- [Python review](https://github.com/FrankieWei727/python-note/tree/master/HelloPython)
+## [Python](https://github.com/FrankieWei727/python-note/tree/master/HelloPython)
  
  Python is a prowerful programming language. 
 
  
-## Section2
- [Web development with python](https://github.com/FrankieWei727/python-note/tree/master/web%20develop/Django/PyShop)
+## [Python for Web Development](https://github.com/FrankieWei727/python-note/tree/master/web%20develop/Django/PyShop)
  
  
-## Section3
- [Data analysis with python](https://github.com/FrankieWei727/python-note/tree/master/data%20analysis/web%20scrap)
+## [Python for Data Analysis](https://github.com/FrankieWei727/python-note/tree/master/data%20analysis/web%20scrap)
+### [Web Scrap](https://github.com/FrankieWei727/python-note/tree/master/Data%20Analysis/Web%20Scrap)
+### [Python for Data Analysis](https://github.com/FrankieWei727/python-note/tree/master/Data%20Analysis/Python%20for%20Data%20Analysis)
  
  
-## Section4
- [Machine learning with python](https://github.com/FrankieWei727/python-note/tree/master/machine%20learning/tree%20)
+## [Python for Machine Learning](https://github.com/FrankieWei727/python-note/tree/master/machine%20learning/tree%20)
  
