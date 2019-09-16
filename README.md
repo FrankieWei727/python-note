@@ -6,7 +6,7 @@ It's notebook is a review of Python for data science, web develop and data analy
  
 ## [Python](https://github.com/FrankieWei727/python-note/tree/master/HelloPython)
  
-This section is a quick review of the basic ideas of Python. Fro more information, please go to [the offical Python tutorial](https://docs.python.org/3/tutorial/).
+This section is a quick review of the basic ideas of Python. For more information, please go to [the offical Python tutorial](https://docs.python.org/3/tutorial/).
 
  
 ## [Python for Web Development](https://github.com/FrankieWei727/python-note/tree/master/Web%20Develop)
