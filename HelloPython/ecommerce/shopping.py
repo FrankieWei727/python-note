@@ -1,4 +1,0 @@
-
-
-def shopping():
-    print('yes')
